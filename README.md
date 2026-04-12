@@ -1,4 +1,5 @@
 # TopGun2025 Drone Detection, Tracking, and Localization using AI
+## ไฟล์ที่ใช้จริงอยู่ใน folder PredictDroneLocation และ TrackingDrone_imageProcessing
 
 โปรเจคนี้พัฒนาระบบตรวจจับ ติดตาม และคำนวณตำแหน่งของโดรนด้วย AI
 
